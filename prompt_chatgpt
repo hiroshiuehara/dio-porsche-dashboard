@@ -1,0 +1,20 @@
+Utilizando o recurso de canvas, renderize um dashboard e, html: 
+
+# Filtros:
+
+->  Modelo da Porsche
+-> Model Year
+-> City
+-> Pay Method
+
+# Perguntas de negócios e kpi's
+
+-> Quais principais modelos vendidos por cidade
+-> Qual ano de modelo de carro mais saiu em um período
+-> ideias campanhas para cada cidade baseada na informação de carros mais vendidos em cada cidade.
+
+# Sobre o design do site:
+
+-> Utilizar o design do site oficial da porsche: https://www.porsche.com/brazil/pt/
+
+
